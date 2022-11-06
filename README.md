@@ -24,7 +24,9 @@ Pixars <- subset of Chars containing the elements of Chars which are used as pix
 USAGE
 ------
 i) Provide all necessary data (alpha,beta,img) and run sketch
+
 ii) Press space to transition to the image
+
 iii) Press 'b' or 'B' to transition to beta 
 
 
