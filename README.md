@@ -17,8 +17,11 @@ What you might want to change are the "Char global parameters", which specify sp
 Important variables list:
 ------------------------
 alpha <- input string, to be first displayed
+
 beta  <- string which is to be displayed after the image
+
 Chars <- list of all ascii characters in alpha turnend into a custom Char object
+
 Pixars <- subset of Chars containing the elements of Chars which are used as pixels for image
 
 USAGE
