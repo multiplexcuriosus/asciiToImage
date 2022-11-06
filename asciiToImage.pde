@@ -82,7 +82,7 @@ String beta = "This is your beta text!";
 int N = 100;
 String imageName = "celeb.jpg";
 
-boolean mono = false; //mono: alpha is a single line. !mono: alpha is all the lines from the text file specified below
+boolean mono = true; //mono: alpha is a single line. !mono: alpha is all the lines from the text file specified below
 String textFilePath = "/home/user/path"; // has to be full path from home dir
 boolean chinese = false;
 
