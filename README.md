@@ -1,4 +1,4 @@
-# imageToAscii
+# AsciiToImage
 Animate letters into an image! And let the letters collapse again into a text.
 
 
