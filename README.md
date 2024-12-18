@@ -1,6 +1,7 @@
 # AsciiToImage
-Animate letters into an image! And let the letters collapse again into a text.
+<img src="https://github.com/user-attachments/assets/cfac52ed-3a00-4357-91eb-d1dd72840c3e" width=50% height=50%>
 
+Animate letters into an image! And let the letters collapse again into a text.
 
 What
 -----
