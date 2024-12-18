@@ -1,5 +1,5 @@
 # AsciiToImage
-<img src="https://github.com/user-attachments/assets/cfac52ed-3a00-4357-91eb-d1dd72840c3e" width=50% height=50%>
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ae231032-b4c3-4ee3-8124-57ee692f6901)
 
 Animate letters into an image! And let the letters collapse again into a text.
 
